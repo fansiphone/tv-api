@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-17 16:37 CST）
+## API 状态（最近更新：2025-12-17 17:33 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：72
@@ -152,8 +152,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 - 平均可用率：90.4%
 - 完美可用率（100%）：48 个
 - 高可用率（80%-99%）：24 个
-- 中等可用率（50%-79%）：2 个
-- 低可用率（<50%）：6 个
+- 中等可用率（50%-79%）：1 个
+- 低可用率（<50%）：7 个
 
 <div style="font-size: 11px;">
 
@@ -232,8 +232,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞 CK-资源 | https://ckzy.me/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
-| 🚨 | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 67 | 33 | 67.0% | 33 |
-| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 50 | 50 | 50.0% | 50 |
+| 🚨 | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 66 | 34 | 66.0% | 34 |
+| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 49 | 51 | 49.0% | 51 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
