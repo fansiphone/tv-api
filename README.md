@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-11 14:39 CST）
+## API 状态（最近更新：2026-01-11 15:26 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：74
-- 失败 API 数量：6
+- 成功 API 数量：73
+- 失败 API 数量：7
 - 平均可用率：91.6%
 - 完美可用率（100%）：61 个
 - 高可用率（80%-99%）：13 个
@@ -221,11 +221,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞麻豆视频 | https://91md.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ❌ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 98 | 2 | 98.0% | 1 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
