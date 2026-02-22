@@ -9,14 +9,14 @@ https://vodtv.github.io/api
 👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/fansiphone/tv-api/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
 
 ```bash
-https://mconfig.viptv.work?config=0&encode=base58
+https://moontv.gyx.workers.dev/?url=https://raw.githubusercontent.com/fansiphone/tv-api/refs/heads/main/jin18.json&pretty=true
 ```
 ```bash
 https://raw.githubusercontent.com/fansiphone/tv-api/refs/heads/main/jin18.txt
 ```
-👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://https://mconfig.viptv.work?config=0&encode=base58) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
+👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://https://moontv.gyx.workers.dev/?url=https://raw.githubusercontent.com/fansiphone/tv-api/refs/heads/main/jin18.json&pretty=true) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
 ```bash
-https://mconfig.viptv.work?config=0&encode=base58
+https://moontv.gyx.workers.dev/?url=https://raw.githubusercontent.com/fansiphone/tv-api/refs/heads/main/jin18.json&pretty=true
 ```
 ```bash
 https://raw.githubusercontent.com/fansiphone/tv-api/refs/heads/main/jingjian.txt
@@ -335,6 +335,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 黄色资源啊啊 | - | [Link](https://hsckzy888.com/api.php/provide/vod) | ✅ | 1 | 0 | 100.0% | ------✅ |
 | ❌ | 黑木耳资源 | - | [Link](https://json.heimuer.xyz/api.php/provide/vod/) | ❌ | 0 | 1 | 0.0% | ------❌ |
 <!-- API_TABLE_END -->
+
 
 
 
