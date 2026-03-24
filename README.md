@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-24 01:52 CST）
+## API 状态（最近更新：2026-03-25 01:56 CST）
 
 - 总 API 数量：174
-- 成功 API 数量：118
-- 失败 API 数量：56
+- 成功 API 数量：119
+- 失败 API 数量：55
 - 平均可用率：0.0%
 - 完美可用率（100%）：0 个
 - 高可用率（80%-99%）：0 个
@@ -161,18 +161,18 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 状态 | 资源名称 | 地址 | API | 搜索功能 | 成功次数 | 失败次数 | 成功率 | 最近7天趋势 |
 |------|---------|-----|-----|---------|---------:|--------:|-------:|--------------|
 | ✅ | 360资源(XML) | - | [Link](https://360zy.com/api.php/seaxml/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
-| ❌ | 39影视 | - | [Link](https://www.39kan.com/api.php/provide/vod/) | ❌ | 1 | 29 | 3.3% | ❌❌❌❌✅❌❌ |
+| 🚨 | 39影视 | - | [Link](https://www.39kan.com/api.php/provide/vod/) | ❌ | 1 | 29 | 3.3% | ❌❌❌✅❌❌❌ |
 | 🚨 | 39影视(JSON) | - | [Link](https://www.39kan.com/api.php/provide/vod/at/json/) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | ✅ | AV-155资源 | [Link](https://155api.com) | [Link](https://155api.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | 🚨 | AV-91麻豆 | [Link](https://91md.me) | [Link](https://91md.me/api.php/provide/vod) | ❌ | 2 | 28 | 6.7% | ❌❌❌❌❌❌❌ |
 | 🚨 | AV-AIvin | - | [Link](http://lbapiby.com/api.php/provide/vod) | ❌ | 3 | 27 | 10.0% | ❌❌❌❌❌❌❌ |
-| ❌ | AV-JKUN资源 | [Link](https://jkunzyapi.com) | [Link](https://jkunzyapi.com/api.php/provide/vod) | ❌ | 21 | 9 | 70.0% | ❌✅❌✅✅✅❌ |
+| ✅ | AV-JKUN资源 | [Link](https://jkunzyapi.com) | [Link](https://jkunzyapi.com/api.php/provide/vod) | ✅ | 21 | 9 | 70.0% | ✅❌✅✅✅❌✅ |
 | 🚨 | AV-souav资源 | [Link](https://api.souavzy.vip) | [Link](https://api.souavzy.vip/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
-| ✅ | AV-乐播资源 | - | [Link](https://lbapi9.com/api.php/provide/vod) | ✅ | 22 | 8 | 73.3% | ✅❌✅✅❌❌✅ |
-| ❌ | AV-奥斯卡资源 | [Link](https://aosikazy.com) | [Link](https://aosikazy.com/api.php/provide/vod) | ❌ | 11 | 19 | 36.7% | ❌❌❌❌✅✅❌ |
-| ❌ | AV-奶香香 | [Link](https://Naixxzy.com) | [Link](https://Naixxzy.com/api.php/provide/vod) | ✅ | 12 | 18 | 40.0% | ❌❌✅❌✅❌❌ |
-| ✅ | AV-淫水机资源 | [Link](https://www.xrbsp.com) | [Link](https://www.xrbsp.com/api/json.php) | ✅ | 25 | 5 | 83.3% | ✅✅✅✅❌❌✅ |
-| ✅ | AV-玉兔资源 | [Link](https://apiyutu.com) | [Link](https://apiyutu.com/api.php/provide/vod) | ✅ | 23 | 7 | 76.7% | ✅❌❌✅✅✅✅ |
+| ✅ | AV-乐播资源 | - | [Link](https://lbapi9.com/api.php/provide/vod) | ✅ | 23 | 7 | 76.7% | ❌✅✅❌❌✅✅ |
+| ❌ | AV-奥斯卡资源 | [Link](https://aosikazy.com) | [Link](https://aosikazy.com/api.php/provide/vod) | ❌ | 11 | 19 | 36.7% | ❌❌❌✅✅❌❌ |
+| 🚨 | AV-奶香香 | [Link](https://Naixxzy.com) | [Link](https://Naixxzy.com/api.php/provide/vod) | ✅ | 12 | 18 | 40.0% | ❌✅❌✅❌❌❌ |
+| ✅ | AV-淫水机资源 | [Link](https://www.xrbsp.com) | [Link](https://www.xrbsp.com/api/json.php) | ✅ | 26 | 4 | 86.7% | ✅✅✅❌❌✅✅ |
+| ❌ | AV-玉兔资源 | [Link](https://apiyutu.com) | [Link](https://apiyutu.com/api.php/provide/vod) | ✅ | 22 | 8 | 73.3% | ❌❌✅✅✅✅❌ |
 | ✅ | AV-番号资源 | - | [Link](http://fhapi9.com/api.php/provide/vod) | ✅ | 20 | 10 | 66.7% | ✅✅✅✅✅✅✅ |
 | ✅ | AV-白嫖资源 | [Link](https://www.kxgav.com) | [Link](https://www.kxgav.com/api/json.php) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | AV-百万资源 | [Link](https://api.bwzyz.com) | [Link](https://api.bwzyz.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
@@ -196,8 +196,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-360资源 | [Link](https://360zy.com) | [Link](https://360zy.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | TV-CK资源 | [Link](https://ckzy.me) | [Link](https://ckzy.me/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | TV-ikun资源 | [Link](https://ikunzyapi.com) | [Link](https://ikunzyapi.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
-| ✅ | TV-U酷资源 | [Link](https://api.ukuapi.com) | [Link](https://api.ukuapi.com/api.php/provide/vod) | ✅ | 27 | 3 | 90.0% | ✅✅✅✅❌✅✅ |
-| ✅ | TV-U酷资源 | [Link](https://api.ukuapi88.com) | [Link](https://api.ukuapi88.com/api.php/provide/vod) | ✅ | 27 | 3 | 90.0% | ✅✅✅✅❌✅✅ |
+| ✅ | TV-U酷资源 | [Link](https://api.ukuapi.com) | [Link](https://api.ukuapi.com/api.php/provide/vod) | ✅ | 27 | 3 | 90.0% | ✅✅✅❌✅✅✅ |
+| ✅ | TV-U酷资源 | [Link](https://api.ukuapi88.com) | [Link](https://api.ukuapi88.com/api.php/provide/vod) | ✅ | 27 | 3 | 90.0% | ✅✅✅❌✅✅✅ |
 | ✅ | TV-wujinapi无尽 | - | [Link](https://api.wujinapi.cc/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | TV-光速资源 | [Link](https://api.guangsuapi.com) | [Link](https://api.guangsuapi.com/api.php/provide/vod) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | TV-最大点播 | [Link](http://zuidazy.me) | [Link](http://zuidazy.me/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
@@ -280,19 +280,19 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 摸鱼儿接口 | - | [Link](http://我不是.摸鱼儿.com) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 新浪资源 | - | [Link](https://api.xinlangapi.com/xinlangapi.php/provide/vod/) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 新浪资源阿 | - | [Link](https://api.xinlangapi.com/xinlangapi.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
-| ✅ | 映迷资源 | - | [Link](https://www.inmi.app/api.php/provide/vod/) | ✅ | 27 | 3 | 90.0% | ✅✅✅✅✅✅✅ |
-| ✅ | 映迷资源(XML) | - | [Link](https://www.inmi.app/api.php/provide/vod/at/xml) | ❌ | 27 | 3 | 90.0% | ✅✅✅✅✅✅✅ |
+| ✅ | 映迷资源 | - | [Link](https://www.inmi.app/api.php/provide/vod/) | ✅ | 28 | 2 | 93.3% | ✅✅✅✅✅✅✅ |
+| ✅ | 映迷资源(XML) | - | [Link](https://www.inmi.app/api.php/provide/vod/at/xml) | ❌ | 28 | 2 | 93.3% | ✅✅✅✅✅✅✅ |
 | ✅ | 暴风APP | - | [Link](https://app.bfzyapi.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 杏吧资源 | - | [Link](https://xingba111.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 极速资源 | [Link](https://jszyapi.com) | [Link](https://jszyapi.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
-| ❌ | 森林资源 | - | [Link](https://slapibf.com/api.php/provide/vod) | ✅ | 16 | 14 | 53.3% | ❌✅❌❌✅✅❌ |
+| ✅ | 森林资源 | - | [Link](https://slapibf.com/api.php/provide/vod) | ✅ | 16 | 14 | 53.3% | ✅❌❌✅✅❌✅ |
 | 🚨 | 欧歌接口 | - | [Link](http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | ✅ | 毒盒接口 | - | [Link](https://毒盒.com/tv/) | 无结果 | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | 🚨 | 淘片资源 | - | [Link](https://taopianapi.com/cjapi/sda/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | ✅ | 潇洒接口 | - | [Link](https://9877.kstore.space/AnotherD/api.json) | 无结果 | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 爱坤资源(m3u8) | - | [Link](https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
-| 🚨 | 爱短剧.cc | - | [Link](https://www.aiduanju.cc/) | ❌ | 11 | 19 | 36.7% | ❌❌❌❌❌❌❌ |
-| ✅ | 王二小接口 | - | [Link](http://tvbox.王二小放牛娃.top) | ❌ | 27 | 3 | 90.0% | ✅✅❌✅✅❌✅ |
+| 🚨 | 爱短剧.cc | - | [Link](https://www.aiduanju.cc/) | ❌ | 10 | 20 | 33.3% | ❌❌❌❌❌❌❌ |
+| ✅ | 王二小接口 | - | [Link](http://tvbox.王二小放牛娃.top) | ❌ | 27 | 3 | 90.0% | ✅❌✅✅❌✅✅ |
 | ✅ | 真心接口 | - | [Link](https://www.252035.xyz/z/FongMi.json) | 无结果 | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 短剧接口 | - | [Link](https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json) | 无结果 | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | 🚨 | 神马资源 | - | [Link](https://img.smdyw.top/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
@@ -315,7 +315,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 金鹰资源采集网 | - | [Link](https://jyzyapi.com/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 闪电资源(m3u8) | - | [Link](https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | 🚨 | 阿里源 | - | [Link](http://aliys.cn:90/api.php/provide/vod/) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
-| ✅ | 雨哥哥资源 | - | [Link](http://cj.baozi66.top:66/api.php/provide/vod/) | ❌ | 28 | 2 | 93.3% | ✅✅✅✅✅✅✅ |
+| ✅ | 雨哥哥资源 | - | [Link](http://cj.baozi66.top:66/api.php/provide/vod/) | ❌ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 青龙接口 | - | [Link](https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 非凡影视new | [Link](http://ffzy5.tv) | [Link](https://api.ffzyapi.com/api.php/provide/vod) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | 🚨 | 飘花资源 | - | [Link](http://www.ahjiuman.com/api.php/provide/vod/at/json) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
@@ -330,7 +330,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 高天流云 | - | [Link](https:/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json) | 无结果 | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | 🚨 | 魔爪资源 | - | [Link](https://mozhuazy.com/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | ✅ | 魔都影视 | - | [Link](https://www.moduzy.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
-| ✅ | 魔都资源 | - | [Link](https://www.mdzyapi.com/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ❌❌✅✅✅✅✅ |
+| ✅ | 魔都资源 | - | [Link](https://www.mdzyapi.com/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ❌✅✅✅✅✅✅ |
 | ✅ | 鸭鸭资源 | - | [Link](https://cj.yayazy.net/api.php/provide/vod) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 黄色资源啊啊 | - | [Link](https://hsckzy888.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | 🚨 | 黑木耳资源 | - | [Link](https://json.heimuer.xyz/api.php/provide/vod/) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
